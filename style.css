@@ -300,10 +300,6 @@ i {
     border: 2px solid #8749f2;
     left: 145px;
   }
-  100% {
-    border: 2px solid #47ea15;
-    left: 216px;
-  }
 }
 
 .socical_icons:hover .icon_circle {
